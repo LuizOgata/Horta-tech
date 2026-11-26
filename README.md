@@ -1,6 +1,6 @@
 # 🌱 Horta tech
 
-**Integrantes:** _ Beatriz Zorato Mendonça · Lucas Carvalho de Araújo · Lucas Perrone Borlin Alves· Luiz Filipe Ichiro Ogata · Nome 5 · Yume Fernandes Lima
+**Integrantes:** _ Beatriz Zorato Mendonça · Lucas Carvalho de Araújo · Lucas Perrone Borlin Alves· Luiz Filipe Ichiro Ogata · Yume Fernandes Lima
 
 Projeto final de Compiladores (FMU, 2026): um compilador em Python para uma DSL de planejamento e cuidado de uma horta.
 Todo o código está em [`hortatech.ipynb`]
