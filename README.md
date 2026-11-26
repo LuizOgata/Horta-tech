@@ -3,7 +3,7 @@
 **Integrantes:** _ Beatriz Zorato Mendonça · Lucas Carvalho de Araújo · Lucas Perrone Borlin Alves· Luiz Filipe Ichiro Ogata · Yume Fernandes Lima
 
 Projeto final de Compiladores (FMU, 2026): um compilador em Python para uma DSL de planejamento e cuidado de uma horta.
-Todo o código está em [`hortatech.ipynb`]
+Todo o código está em [`horta_tech.ipynb`]
 
 ```
 texto → léxico → sintático (AST) → semântico → TAC → otimização → VM
@@ -12,8 +12,8 @@ texto → léxico → sintático (AST) → semântico → TAC → otimização �
 
 ## Como rodar
 
-- **Google Colab:** envie `hortascript.ipynb` e escolha *Ambiente de execução → Reiniciar e executar tudo*.
-- **Local (Python 3.10+):** `pip install -r requirements.txt`, depois `jupyter notebook hortascript.ipynb` e *Restart & Run All*.
+- **Google Colab:** envie `horta_tech.ipynb` e escolha *Ambiente de execução → Reiniciar e executar tudo*.
+- **Local (Python 3.10+):** `pip install -r requirements.txt`, depois `jupyter notebook horta_tech.ipynb` e *Restart & Run All*.
 
 ## Ficha da linguagem
 
