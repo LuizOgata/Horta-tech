@@ -17,7 +17,7 @@ texto → léxico → sintático (AST) → semântico → TAC → otimização �
 
 ## Ficha da linguagem
 
-- **Nome:** HortaScript
+- **Nome:** Horta tech
 - **Domínio:** planejamento e cuidado de uma horta
 - **Tipos:** inteiro, decimal, texto, logico
 - **Comandos do domínio:** `plantar <cultura>, <mudas>;`, `regar <cultura>, <litros>;`, `adubar <cultura>, <gramas>;`, `colher <cultura>;`, `esperar <dias>;` (além de `mostrar`)
