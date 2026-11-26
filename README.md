@@ -7,7 +7,7 @@ Todo o código está em [`hortatech.ipynb`]
 
 ```
 texto → léxico → sintático (AST) → semântico → TAC → otimização → VM
-                                                          └→ Assembly (bônus)
+                                                          
 ```
 
 ## Como rodar
